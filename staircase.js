@@ -1,5 +1,4 @@
 let cedilha = '#'
-let n = 4
 
 
 function staircase(n) {
