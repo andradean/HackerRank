@@ -1,5 +1,4 @@
 let cedilha = '#'
-let i = 0
 let n = 4
 
 
